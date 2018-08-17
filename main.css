@@ -1,0 +1,58 @@
+body {
+    background: #0070FF
+;
+}
+
+.jumbotron {
+    padding: 60px;
+    margin: -20px 0px -50px 0px;
+    text-align: justify;
+}
+
+.header {
+    margin: 60px;
+    word-spacing: 20px;
+}
+
+.card-columns {
+    background: white;
+    padding: 60px;
+    background-position-y: -40px;
+}
+
+.nav-pills {
+    background: #E9ECEF;
+    padding: 50px 60px 0px 0px;
+}
+
+.card-body {
+ background: #E9ECEF;
+ border: 0px;
+ text-align: justify;
+}
+
+.text-muted {
+    color: white;
+}
+
+.blockquote {
+    font-size: 30px;
+    padding: 20px 20px -10px 20px;
+}
+
+.social-footer {
+    padding: 1rem;
+    background: #E9ECEF;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-justify-content: space-between;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+  
+  
+
